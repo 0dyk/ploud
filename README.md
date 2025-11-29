@@ -406,6 +406,5 @@
 ## 👨‍👨‍👧 팀원 👨‍👨‍👧
 |Name|박나린|배준형|김가영|김영대|이승집|박민호|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Profile**  | <img src="document/member/rin.jpg" style="height: 100px"> | <img src="document/member/bjh.jpg" style="height: 100px"> | <img src="document/member/kky.jpg" style="height: 100px"> | <img src="document/member/kyd.jpg" style="height: 100px"> | <img src="document/member/lsj.jpg" style="height: 100px"> | <img src="document/member/pmh.png" style="height: 100px"> |
 | **Position** | PM <br/> Backend <br/> CI/CD | FrontEnd <br/> OpenVidu | Backend <br/> Design | Backend <br/> 음성분석 | Frontend <br/> UI/UX | Frontend <br/> OpenVidu |
 | **Git**      | [GitHub](https://github.com/xw2nana) | [GitHub](https://github.com/junhyung96) | [GitHub](https://github.com/kayoung0) | [GitHub](https://github.com/0dyk) | [GitHub](https://github.com/SeungjipLee) | [GitHub](https://github.com/pmhmist) |
